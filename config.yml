@@ -3,8 +3,6 @@ site_name: "WikiFreaks"
 site_description: ""
 creation_date: "May-June 2023"
 
-baseurl: "/wikifreaks" # the subpath of your site, e.g. /blog/
-
 address: |
     Box 352840 - Mary Gates Hall, Ste. 370
     Seattle
