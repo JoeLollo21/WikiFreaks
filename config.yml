@@ -1,12 +1,7 @@
-# Site settings
-site_name: "WikiFreaks"
-site_description: ""
+# Settings
+name: "WikiFreaks"
+description: "an open repository of Wikipedia data"
 creation_date: "May-June 2023"
-
-address: |
-    Box 352840 - Mary Gates Hall, Ste. 370
-    Seattle
-    Washington
 
 ### Do not change the followings unless you know what you are doing ###
 
