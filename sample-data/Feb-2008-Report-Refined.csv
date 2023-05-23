@@ -1,0 +1,26 @@
+Rank,Current-Link,Article,Views,Date-Created,Simple-Date-Created,Year-Created,Unique-ID,Description,Instance,Instance-ID,Alt-Instance,Alt-ID,Comment
+1,wiki/Main_Page,Main Page,136036288,01-26-2001 15:28:00,01-26-2001,2001,Q5296,The main page of the English Wikipedia.,Wikimedia project page,Q14204246,Wikimedia internal item,Q17442446,
+2,wiki/Wiki,Wiki,4264295,01-29-2001 15:12:00,01-29-2001,2001,Q171,Type of website that visitors can read and edit.,Website,Q35127,Infrastructure,Q121359,
+3,wiki/Barack_Obama,Barack Obama,2253851,03-18-2004 5:23:00,03-18-2004,2004,Q76,President of the United States from 2009 to 2017 (born 1961),Human,Q5,,,
+4,wiki/Valentine%27s_Day,Valentine's Day,2082274,02-12-2003 21:32:00,02-12-2003,2003,Q37587,Holiday observed on February 14th to celebrate love and friendship.,Holiday,Q1445650,,,
+5,wiki/Wikipedia,Wikipedia,1980274,11-06-2001 1:16:00,11-06-2001,2001,Q52,Free multimedia online encyclopedia.,Website,Q35127,Wikimedia project,Q14287288,
+6,wiki/Canine_reproduction,Canine reproduction,1785111,06-28-2006 4:33:00,6-28-2006,2006,Q13538358,Act of sexual reproduction in canine species.,Animal sexual behavior,Q2431958,Mating behavior,Q14865855,"""Sexual life of dogs"" on WikiData."
+7,wiki/John_McCain,John McCain,1250044,03-11-2002 1:34:00,03-11-2002,2002,Q10390,American politician and military officer (1936-2018).,Human,Q5,,,
+8,wiki/Portal:Current_events,Portal:Current events,1248112,06-30-2006 19:36:00,06-30-2006,2006,Q4597488,Wikipedia portal for content related to news and current events.,Wikimedia portal,Q4663903,Wikimedia project page,Q14204246,
+9,wiki/Sex,Sex,1221250,10-10-2001 16:46:00,10-10-2001,2001,Q290,Trait that determines an individual's sexually reproductive function.,Medical attribute,Q44476427,,,
+10,wiki/United_States,United States,1174571,09-06-2001 7:00:00,09-06-2001,2001,Q30,Country in North America.,Sovereign state,Q6256,Democratic republic,Q5255892,"""United States of America"" on WikiData"
+11,wiki/Chinese_New_Year,Chinese New Year,1133130,11-30-2001 10:39:00,11-30-2001,2001,Q131772,Traditional Chinese holiday observed annually.,Holiday,Q1445650,Annual event,Q11483816,
+12,wiki/Kosovo,Kosovo,1129177,12-15-2001 14:48:00,12-15-2001,2001,Q1246,Partially recognized country in southeastern Europe,Unitary state,Q179164,,,"""Republic of Kosovo"" on WikiData."
+13,wiki/Lists_of_deaths_by_year#2008,Deaths in 2008,1127534,01-01-2008 15:38:00,01-01-2008,2008,Q732361,Wikimedia list article.,Wikimedia list article,Q13406463,,,
+14,wiki/Wikipedia:Contents,Portal:Contents,1072081,09-17-2001 17:27:00,09-17-2001,2001,Q5008867,Navigation page for portals on Wikipedia.,Wikimedia portal,Q4663903,Wikimedia project page,Q14204246,"Has been ""Wikipedia:Contents"" rather than ""portal:Contents"" since 2010."
+15,wiki/Cloverfield,Cloverfield,990778,07-03-2007 4:31:00,07-03-2007,2007,Q123742,2008 disaster film directed by Matt Reeves.,Film,Q123742,,,
+16,wiki/Resolution,Resolution,962171,02-26-2002 0:07:00,02-26-2002,2002,Q20452078,Wikipedia disambiguation page.,Wikimedia project page,Q14204246,,,
+17,wiki/Naruto,Naruto,921059,05-23-2003 2:47:00,05-23-2003,2003,Q26971382,Japanese manga series by Masashi Kishimoto.,Manga series,Q21198342,,,
+18,wiki/Edison_Chen_photo_scandal,Edison Chen photo scandal,917054,02-03-2008 21:32:00,02-03-2008,2008,Q1374290,Edison Chen photo scandal,Event,Q1656682,,,"Sexual photos of Edison Chen with various women were released between January and February 2008, spurring an investigation by Hong Kong police in conjunction with Interpol regarding their dissemination (this is not covered in WikiData)."
+19,wiki/Muhammad,Muhammad,875290,11-08-2001 22:13:00,11-08-2001,2001,Q9458,Founder and main prophet of the Islamic faith (c. 570-362),Human,Q5,,,
+20,wiki/Zacarias_Moussaoui,Zacarias Moussaoui,826241,03-10-2003 0:37:00,03-10-2003,2003,Q139204,French criminal and Al-Qaeda operative associated with the September 11 attacks (born 1968).,Human,Q5,,,
+21,wiki/Edison_Chen,Edison Chen,803499,03-20-2004 9:13:00,03-20-2004,2004,Q379830,"Hong Kong actor, rapper, and fashion designer.",Human,Q5,,,
+22,wiki/YouTube,YouTube,759661,12-25-2005 18:18:00,12-25-2005,2005,Q866,Video-sharing platform owned by Google.,Website,Q35127,Video streaming service,Q59152282,
+23,wiki/The_Economist,The Economist,746972,04-26-2002 5:14:00,04-26-2002,2002,Q180089,British weekly news and international affairs publication.,Magazine,Q41298,,,
+24,wiki/Lost_(TV_series),Lost (TV series),693510,08-23-2004 4:00:00,08-23-2004,2004,Q23567,American television series.,Television series,Q5398426,,,
+25,wiki/Lunar_eclipse,Lunar eclipse,687772,10-29-2001 16:16:00,10-29-2001,2001,Q44235,Astronomical event when when the Moon passes directly behind the Earth.,Astronomical phenomenon,Q751989,,,"Is a subclass of ""eclipse."""
