@@ -3,7 +3,7 @@ An open repository of Wikipedia data. Final project LIS 546 (Data Curation II) a
 <br><br>
 by Joe Lollo and Lily Woodard
 <br><br>
-To view the full protocol report, read the PDF or view the Manifold page.
+To view the full protocol report, please view our Manifold page.
 
 ## Table of Contents:
 - User Community
