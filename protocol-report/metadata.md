@@ -19,7 +19,7 @@ Below you will see all metadata elements in use, including potential vocabulary 
 		<th>Namespace</th>
 		<th>Status</th>
 		<th>Encoding</th>
-		<th>Definition<br>and Rules</th>
+		<th>Definition and Rules</th>
 	</tr>
 	<tr>
 		<td><strong>&lt;dci:creator&gt;</strong></td>
@@ -51,6 +51,87 @@ Below you will see all metadata elements in use, including potential vocabulary 
 		<td>	The full name of the creators' organizational or institutional affiliation.
 		<br><br>For submitters without an academic or professional affiliation, use "<strong>Independent</strong>."
 		</td>
+	</tr>
+	<tr>
+		<td><strong>&lt;ddi:dataProcessing&gt;</strong></td>
+		<td>Data Processing Done</td>
+		<td>DDI</td>
+		<td>Mandatory</td>
+		<td>String</td>
+		<td>Any free-text information that uploaders and/or creators are willing to provide surrounding the dataset, such as the areas of Wikipedia it covers.</td>
+	</tr>
+	<tr>
+		<td><strong>&lt;dci:PublicationYear&gt;</strong></td>
+		<td>Publication Year</td>
+		<td>DataCite</td>
+		<td>Mandatory</td>
+		<td>Integer</td>
+		<td>	The year when the data was made publicly available on the WikiFreaks repository. 
+		<br><br>Must be a four-digit number representing a year.
+		</td>
+	</tr>
+	<tr>
+		<td><strong>&lt;dcterms:created&gt;</strong></td>
+		<td>Date Created</td>
+		<td>Dublin Core</td>
+		<td>Mandatory</td>
+		<td>String</td>
+		<td>	The date (month, day, and year) that the data was created. 
+		<br><br>Must follow <a href="https://en.wikipedia.org/wiki/ISO_8601">ISO 8601</a> naming standards.
+		</td>
+	</tr>
+	<tr>
+		<td><strong>&lt;dcterms:modified&gt;</strong></td>
+		<td>Date Modified</td>
+		<td>Dublin Core</td>
+		<td>Mandatory</td>
+		<td>String</td>
+		<td>	The date (month, day, and year) that the data was created. 
+		<br><br>Must follow <a href="https://en.wikipedia.org/wiki/ISO_8601">ISO 8601</a> naming standards.
+		</td>
+	</tr>
+	<tr>
+		<td><strong>&lt;dctems:temporal&gt;</strong></td>
+		<td>Temporal Coverage</td>
+		<td>Dublin Core</td>
+		<td>Mandatory</td>
+		<td>String</td>
+		<td>	The temporal coverage of the Wikipedia data. 
+		<br><br>Must feature <strong>at least two dates</strong>, ideally formatted in ISO standards.</td>
+	</tr>
+	<tr>
+		<td><strong>&lt;dci:subject&gt;</strong></td>
+		<td>Subject</td>
+		<td>DataCite</td>
+		<td>Mandatory</td>
+		<td>String</td>
+		<td>All subjects, keywords, classification codes, or key phrases describing the data, including the contents of featured Wikipedia articles.</td>
+	</tr>
+	<tr>
+		<td><strong>&lt;dc:accessURL&gt;</strong></td>
+		<td>Public URL</td>
+		<td>Dublin Core</td>
+		<td>Mandatory</td>
+		<td>String (must be a valid URL on the web)</td>
+		<td>The Uniform Resource Locator (URL) to the page on the WikiFreaks repository where users can access the data.</td>
+	</tr>
+	<tr>
+		<td><strong>&lt;ddi:license&gt;</strong></td>
+		<td>License</td>
+		<td>DDI</td>
+		<td>Mandatory</td>
+		<td>String</td>
+		<td>The license that the data is shared under.
+		<br><br>	Must be a valid license under <a href="https://choosealicense.com/">GitHub's "Choose a License" directory.</a>.
+		</td>
+	</tr>
+	<tr>
+		<td><strong>&lt;dci:rights&gt;</strong></td>
+		<td>Access Rights</td>
+		<td>DataCite</td>
+		<td>Mandatory</td>
+		<td>String</td>
+		<td>	Any additional information on the rights for this resource, beyond the license itself.</td>
 	</tr>
 </table>
 
