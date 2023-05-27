@@ -116,6 +116,14 @@ Below you will see all metadata elements in use, including potential vocabulary 
 		<td>The Uniform Resource Locator (URL) to the page on the WikiFreaks repository where users can access the data.</td>
 	</tr>
 	<tr>
+		<td><strong>&lt;dci:source&gt;</strong></td>
+		<td>Source URL</td>
+		<td>DataCite</td>
+		<td>Mandatory</td>
+		<td>String (must be a valid URL on the web)</td>
+		<td>The Uniform Resource Locator (URL) to the original source of the data (ideally on Wikipedia).</td>
+	</tr>
+	<tr>
 		<td><strong>&lt;ddi:license&gt;</strong></td>
 		<td>License</td>
 		<td>DDI</td>
