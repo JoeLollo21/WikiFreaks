@@ -9,6 +9,29 @@ The WikiFreaks repository uses a unique, in-house metadata schema combining thre
 <p>Below you will see all metadata elements in use, including potential vocabulary or standard restrictions and notes on usage.</p>
 
 ## Metadata Elements:
+<table>
+	<tr>
+		<th>Element</th>
+		<th>Common Name</th>
+		<th>Namespace</th>
+		<th>Status</th>
+		<th>Encoding</th>
+		<th>Definition<br>and Rules</th>
+		<th>Example</th>
+	</tr>
+	<tr>
+		<td><strong>&lt;dci:creator&gt;</strong></td>
+		<td>Creator</td>
+		<td>DataCite</td>
+		<td>Mandatory</td>
+		<td>String</td>
+		<td>	The individual(s) involved in creating the data, or the authors of a publication where the data is used.
+			<br><br>To credit multiple creators, repeat this element.
+			<br><br><strong>Name Format:</strong> Last Name, First Name
+		</td>
+		<td>&lt;dci:creator&gt;Lollo, Joe&lt;/&gt;</td>
+	</tr>
+</table>
 (just copy and paste the table when it’s transferred to Markdown)
 
 ## Metadata Format:
