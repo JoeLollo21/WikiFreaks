@@ -41,7 +41,7 @@ The WikiFreaks repository uses a unique, in-house metadata schema combining thre
 	</tr>
 	<tr>
 		<td><strong>&lt;dci:affiliation&gt;</strong></td>
-		<td>Creator Affiliation</td>
+		<td>Creator's Affiliation</td>
 		<td>DataCite</td>
 		<td>Mandatory</td>
 		<td>String</td>
