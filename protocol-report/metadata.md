@@ -1,13 +1,15 @@
-# WikiFreaks Metadata Profile:
+# WikiFreaks Metadata Application Profile:
+WikiFreaks' metadata profile defines the type of metadata that we collect, and its structure.
+<br><br>
+The structure of this profile was inspired by that of the [Qualitative Data Repository](https://qdr.syr.edu/content/qdr-metadata-application-profile) from Syracuse University. 
 ## Metadata Schema:
-The WikiFreaks repository uses a unique, in-house metadata schema combining three standards:
-<br>
-<ul>
-	<li>Most attributes come from the <a href="https://datacite.org/">DataCite</a> schema, which is widely used in the documentation of research data. DataCite was picked as the core schema because it was found to be a very human-readable schema, therefore facilitating users' access to our data. </li>
-	<li>Information on data licenses and edits made to the datasets comes from the <a href="https://ddialliance.org/">DDI (Data Documentation Initiative)</a> schema, primarily used for statistical and social science data. This content is not present in the DataCite schema, and we added these DDI terms because of the WikiFreaks repository’s central value of accountability for the open uploading and reuse of data.</li>
-	<li>Temporal elements – namely for the creation and modification of data and the temporal coverage of datasets – come from the <a href="https://www.dublincore.org/">Dublin Core Metadata Initiative (DCMI)</a> schema. These are integral to WikiFreaks’ mission to provide users with historical data on Wikipedia, and was borrowed for metadata because DataCite did not have sufficiently comprehensive indicators of time. Similarly, information on URLs to the data were borrowed from DCMI. Since the “accessURL” element in DCMI is more specific than DataCite’s generic “resource” element, where URLs are traditionally stored in metadata, we decided to borrow that additional element.</li>
-</ul>
-<p>Below you will see all metadata elements in use, including potential vocabulary or standard restrictions and notes on usage.</p>
+The WikiFreaks repository uses a unique, in-house metadata schema combining three standards. It most closely maps to the <a href="https://datacite.org/">DataCite</a> schema, which is widely used in the documentation of research data and easily facilitates end-users' access to data.
+<br><br>
+Information on data licensing and edits made to the data comes from the <a href="https://ddialliance.org/">DDI (Data Documentation Initiative)</a> schema, as this content is not present in the DataCte schema yet is integral to the repository's value of accountability for the open uploading and reuse of data.
+<br><br>
+Lastly, temporal elements – namely for the creation and modification of data and the temporal coverage of datasets – come from the <a href="https://www.dublincore.org/">Dublin Core Metadata Initiative (DCMI)</a> schema.
+<br><br>
+Below you will see all metadata elements in use, including potential vocabulary or standard restrictions and notes on usage.
 
 ## Metadata Elements:
 <table>
