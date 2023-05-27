@@ -12,6 +12,6 @@ The WikiFreaks repository uses a unique, in-house metadata schema combining thre
 (just copy and paste the table when it’s transferred to Markdown)
 
 ## Metadata Format:
-All WikiFreaks metadata will be XML (eXtensible Markup Language) files. Some elements will be given an [XML Schema Instance (XSI)](https://www.w3schools.com/xml/schema_schema.asp) to provide links to the definitions in the specific namespace, adding an extra layer of authority control to our metadata. 
+All WikiFreaks metadata will be stored as human- and machine-readable XML (eXtensible Markup Language files. To ensure the most compatibility, the metadata is required to be in [XML 1.0](https://www.w3.org/TR/xml/). Some elements will be given an [XML Schema Instance (XSI)](https://www.w3schools.com/xml/schema_schema.asp) to provide links to the definitions in the specific namespace, adding an extra layer of authority control to our metadata. 
 <br><br>
 XML was picked over other machine-readable formats such as JSON because the Wikimedia Foundation itself uses XML for its WikiData project, and it will therefore be familiar to at least some of our audience.
