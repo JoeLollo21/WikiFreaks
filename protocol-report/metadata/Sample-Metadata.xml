@@ -9,7 +9,7 @@ xmlns:ddi="https://ddialliance.org/Specification/">
 
 	<dci:title>Wikipedia Top 25 Report, February 17-23, 2013</dci:title>
 	<dci:creator>Lily Woodard</dci:creator>
-	<dci:nameIdentifier xsi:type="https://orcid.org/">F4K3-ID-114</dci:nameIdentifier>
+	<dci:creator>Joe Lollo</dci:creator>
 	<dci:affiliation>University of Washington</dci:affiliation>
 	<dci:description>
 		Wikipedia's Top 25 Report from February 17 to 23, 2013, indicating the most viewed pages from that date and matched with . 
