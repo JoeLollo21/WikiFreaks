@@ -1,5 +1,5 @@
 # WikiFreaks Metadata Application Profile:
-WikiFreaks' metadata profile defines the type of metadata that we collect, and its structure.
+WikiFreaks' metadata profile defines the type of metadata that collected by the repository, and its structure and encoding. Fields are listed in order of appearance in the WikiFreaks catalog. 
 <br><br>
 The structure of this profile was inspired by that of the [Qualitative Data Repository](https://qdr.syr.edu/content/qdr-metadata-application-profile) from Syracuse University. 
 ## Metadata Schema:
