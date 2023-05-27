@@ -29,6 +29,26 @@ The WikiFreaks repository uses a unique, in-house metadata schema combining thre
 			<br><br><strong>Name Format:</strong> Last Name, First Name
 		</td>
 	</tr>
+	<tr>
+		<td><strong>&lt;dci:nameIdentifier&gt;</strong></td>
+		<td>Creator's Name Identifier</td>
+		<td>DataCite</td>
+		<td>Optional</td>
+		<td>String</td>
+		<td>	A unique identifier to verify the creator.
+			<br><br>The source, such as the creator's <a href="https://orcid.org/">ORCID ID</a>, must be specified within the element tag.
+		</td>
+	</tr>
+	<tr>
+		<td><strong>&lt;dci:affiliation&gt;</strong></td>
+		<td>Creator Affiliation</td>
+		<td>DataCite</td>
+		<td>Mandatory</td>
+		<td>String</td>
+		<td>	The full name of the creators' organizational or institutional affiliation.
+		<br><br>For submitters without an academic or professional affiliation, use "<strong>Independent</strong>."
+		</td>
+	</tr>
 </table>
 (just copy and paste the table when it’s transferred to Markdown)
 
