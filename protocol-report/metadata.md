@@ -3,9 +3,9 @@
 The WikiFreaks repository uses a unique, in-house metadata schema combining three standards:
 <br>
 <ul>
-	<li>Most attributes come from the DataCite schema, which is widely used in the documentation of research data. DataCite was picked as the core schema because it was found to be expressive . </li>
-	<li>Information on data licenses and edits made to the datasets comes from the DDI (Data Documentation Initiative) schema, primarily used for statistical and social science data. This content is not present in the DataCite schema, and we added these DDI terms because of the WikiFreaks repository’s central value of accountability for the open uploading and reuse of data.</li>
-	<li>Temporal elements – namely for the creation and modification of data and the temporal coverage of datasets – come from the Dublin Core Metadata Initiative (DCMI) schema. These are integral to WikiFreaks’ mission to provide users with historical data on Wikipedia, and was borrowed for metadata because DataCite did not have sufficiently comprehensive indicators of time. Similarly, information on URLs to the data were borrowed from DCMI. Since the “accessURL” element in DCMI is more specific than DataCite’s generic “resource” element, where URLs are traditionally stored in metadata, we decided to borrow that additional element.</li>
+	<li>Most attributes come from the <a href="https://datacite.org/">DataCite</a> schema, which is widely used in the documentation of research data. DataCite was picked as the core schema because it was found to be a very human-readable schema, therefore facilitating users' access to our data. </li>
+	<li>Information on data licenses and edits made to the datasets comes from the <a href="https://ddialliance.org/">DDI (Data Documentation Initiative)</a> schema, primarily used for statistical and social science data. This content is not present in the DataCite schema, and we added these DDI terms because of the WikiFreaks repository’s central value of accountability for the open uploading and reuse of data.</li>
+	<li>Temporal elements – namely for the creation and modification of data and the temporal coverage of datasets – come from the <a href="https://www.dublincore.org/">Dublin Core Metadata Initiative (DCMI)</a> schema. These are integral to WikiFreaks’ mission to provide users with historical data on Wikipedia, and was borrowed for metadata because DataCite did not have sufficiently comprehensive indicators of time. Similarly, information on URLs to the data were borrowed from DCMI. Since the “accessURL” element in DCMI is more specific than DataCite’s generic “resource” element, where URLs are traditionally stored in metadata, we decided to borrow that additional element.</li>
 </ul>
 <p>Below you will see all metadata elements in use, including potential vocabulary or standard restrictions and notes on usage.</p>
 
@@ -50,11 +50,7 @@ The WikiFreaks repository uses a unique, in-house metadata schema combining thre
 		<br><br>For submitters without an academic or professional affiliation, use "<strong>Independent</strong>."
 		</td>
 	</tr>
-	<tr>
-		
-	</tr>
 </table>
-(just copy and paste the table when it’s transferred to Markdown)
 
 ## Metadata Format:
 All WikiFreaks metadata will be stored as human- and machine-readable XML (eXtensible Markup Language files. To ensure the most compatibility, the metadata is required to be in [XML 1.0](https://www.w3.org/TR/xml/). Some elements will be given an [XML Schema Instance (XSI)](https://www.w3schools.com/xml/schema_schema.asp) to provide links to the definitions in the specific namespace, adding an extra layer of authority control to our metadata. 
