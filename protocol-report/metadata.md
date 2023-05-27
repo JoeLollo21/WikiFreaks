@@ -86,7 +86,7 @@ Below you will see all metadata elements in use, including potential vocabulary 
 		<td>Dublin Core</td>
 		<td>Mandatory</td>
 		<td>String</td>
-		<td>	The date (month, day, and year) that the data was created. 
+		<td>	The date (month, day, and year) that the data was last modified. 
 		<br><br>Must follow <a href="https://en.wikipedia.org/wiki/ISO_8601">ISO 8601</a> naming standards.
 		</td>
 	</tr>
