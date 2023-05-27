@@ -122,7 +122,7 @@ Below you will see all metadata elements in use, including potential vocabulary 
 		<td>Mandatory</td>
 		<td>String</td>
 		<td>The license that the data is shared under.
-		<br><br>	Must be a valid license under <a href="https://choosealicense.com/">GitHub's "Choose a License" directory.</a>.
+		<br><br>	Must be a valid license under <a href="https://choosealicense.com/">GitHub's "Choose a License" directory</a>.
 		</td>
 	</tr>
 	<tr>
@@ -131,7 +131,7 @@ Below you will see all metadata elements in use, including potential vocabulary 
 		<td>DataCite</td>
 		<td>Mandatory</td>
 		<td>String</td>
-		<td>	Any additional information on the rights for this resource, beyond the license itself.</td>
+		<td>Any additional information on the rights for this resource, beyond the license itself.</td>
 	</tr>
 </table>
 
