@@ -1,5 +1,5 @@
 # WikiFreaks Metadata Application Profile:
-WikiFreaks' metadata profile defines the type of metadata that collected by the repository, and its structure and encoding. Fields are listed in order of appearance in the WikiFreaks catalog. 
+WikiFreaks' metadata profile defines the type of metadata that collected by the repository, and its encoding and authority control.
 <br><br>
 The structure of this profile was inspired by that of the [Qualitative Data Repository](https://qdr.syr.edu/content/qdr-metadata-application-profile) from Syracuse University. 
 ## Metadata Schema:
@@ -9,7 +9,7 @@ Information on data licensing and edits made to the data comes from the <a href=
 <br><br>
 Lastly, temporal elements – namely for the creation and modification of data and the temporal coverage of datasets – come from the <a href="https://www.dublincore.org/">Dublin Core Metadata Initiative (DCMI)</a> schema.
 <br><br>
-Below you will see all metadata elements in use, including potential vocabulary or standard restrictions and notes on usage.
+Below you will see all metadata elements in use, including potential vocabulary or standard restrictions and notes on usage. Fields are listed in order of appearance in the WikiFreaks catalog. 
 
 ## Metadata Elements:
 <table>
