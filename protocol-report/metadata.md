@@ -1,4 +1,4 @@
-# WikiFreaks Metadata Profile
+# WikiFreaks Metadata Profile:
 ## Metadata Schema:
 The WikiFreaks repository uses a unique, in-house metadata schema combining three standards:
 <br>
