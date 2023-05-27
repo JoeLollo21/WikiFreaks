@@ -29,7 +29,7 @@ The WikiFreaks repository uses a unique, in-house metadata schema combining thre
 			<br><br>To credit multiple creators, repeat this element.
 			<br><br><strong>Name Format:</strong> Last Name, First Name
 		</td>
-		<td>&lt;dci:creator&gt;Lollo, Joe&lt;/&gt;</td>
+		<td>&lt;dci:creator&gt;Lollo, Joe&lt;/dci:creator&gt;</td>
 	</tr>
 </table>
 (just copy and paste the table when it’s transferred to Markdown)
