@@ -13,7 +13,7 @@ The WikiFreaks repository uses a unique, in-house metadata schema combining thre
 <table>
 	<tr>
 		<th>Element</th>
-		<th>Common Name</th>
+		<th>Common<br>Name</th>
 		<th>Namespace</th>
 		<th>Status</th>
 		<th>Encoding</th>
