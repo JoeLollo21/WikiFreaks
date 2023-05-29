@@ -1,0 +1,17 @@
+﻿Variable,Variable Name,Variable Type,Allowed Values,Description
+Article Rank,Rank,Integer,"Real numbers greater than 0, ranging from 1 to 25.",A specific page's rank on the Wikipedia Top 25 Reports.
+Article URL,Index-Link,String,Must be a valid Wikipedia URL.,A Uniform Resource Locator (URL) to the page on Wikipedia.
+Article Title,Article,String,Must be a valid Wikipedia page.,The page's title on Wikipedia.
+Article Class,Class,String,"Must be a valid article ""class"" on Wikipedia.","The ""class,"" or assigned grade for quality and layout, that Wikipedia administrators gave the article at the time of the Top 25 Report."
+Article Views,Views,Integer,Real numbers greater than 0.,The number of views the article had at the time of the Top 25 Report's publication.
+Administrator Note,Admin-Note,String,,A comment made by a Wikipedia administrator on the inclusion of the article in a Top 25 Report.
+Date Created,Date-Created,String,Must be a date conforming to ISO 8601 standards.,The date and time that the article was created.
+Short Date Created,Simple-Date-Created,String,Must be a date conforming to ISO 8601 standards.,"The date, without the time, that the article was created."
+Year-Created,Year-Created,Integer,Must be a four-digit number representing a year.,The year the article was created.
+WikiData Identifier,Unique-ID,String,Must be a valid identifier on WikiData.,The unique identifier attached to the Wikipedia page on the WikiData portal.
+WikiData Description,,String,,The unique description given to the Wikipedia page on the WikiData portal.
+WikiData Instance,Instance,String,Must be a valid category on WikiData.,"The category that the page is listed as an ""instance of"" on WikiData."
+WikiData Instance Identifier,Instance-ID,String,Must be a valid identifier on WikiData.,The unique identifier given to a category on WikiData.
+Alternate WikiData Instance,Alt-Instance,String,Must be a valid category on WikiData.,"The alternate or second category that the page is listed as an ""instance of"" on WikiData."
+Alternate WikiData Instance Identifier,Alt-ID,String,Must be a valid identifier on WikiData.,The unique identifier given to a category on WikiData.
+Comment,Comment,String,,Any additional information surrounding the page.
