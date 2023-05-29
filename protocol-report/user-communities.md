@@ -1,4 +1,4 @@
-# User Community
+# WikiFreaks User Community:
 Unlike a typical repository for cultural heritage data, WikiFreaks inspects the history of digital culture—we aim to catalog the top Wikipedia pages accessed by English-speaking Internet users, to identify which broader topics and discourses have defined Internet citizenship.
 <br><br>
 Our data will be of value to the following prospective users:
