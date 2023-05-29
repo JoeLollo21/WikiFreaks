@@ -3,7 +3,7 @@ Unlike a typical repository for cultural heritage data, WikiFreaks inspects the 
 
 Our data will be of value to the following prospective users
 <br><br>
-Digital humanities researchers, particularly in digital history and cultural studies:**
+**Digital humanities researchers, particularly in digital history and cultural studies:**
 <br>
 Humanities researchers may refer to our results as a point of reference for understanding smaller trends in Internet discourse, and could compare our findings alongside sociopolitical or historic happenings to understand how web culture is being actively shaped by the real world.
 <br><br>
