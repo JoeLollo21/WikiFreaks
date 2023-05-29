@@ -2,8 +2,9 @@
 Unlike a typical repository for cultural heritage data, WikiFreaks inspects the history of digital culture—we aim to catalog the top Wikipedia pages accessed by English-speaking Internet users, to identify which broader topics and discourses have defined Internet citizenship.
 <br><br>
 Our data will be of value to the following prospective users:
-<br>
+<br><br>
 **Wikipedia administrators and users:**
+<br>
 Members of the community whose histories are documented are direct stakeholders in the development of digital culture, and would likely be interested in having an easy directory of historical data surveying the site. Wikipedia administrators, who supervise specific projects and pages on the site, may also be interested in having an easy reference to multiple forms of authority control found in our data, such as the WikiData identifiers.
 <br><br>
 **Digital humanities researchers, particularly in digital history and cultural studies:**
