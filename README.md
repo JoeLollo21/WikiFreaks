@@ -12,5 +12,5 @@ To view the full protocol report, please view <a href="https://uw.manifoldapp.or
 - [Data Transfer and Transformation Policies](https://github.com/JoeLollo21/WikiFreaks/blob/main/protocol-report/policies-2.md)
 - [Metadata Application Profile](https://github.com/JoeLollo21/WikiFreaks/blob/main/protocol-report/metadata.md) and [Sample XML Metadata](https://github.com/JoeLollo21/WikiFreaks/blob/main/protocol-report/Sample-Metadata.xml)
 - [Licensing Information](https://github.com/JoeLollo21/WikiFreaks/blob/main/protocol-report/licensing.md)
-- [Original and Curated Data](https://github.com/JoeLollo21/WikiFreaks/tree/main/sample-data)
+- [Original and Curated Data](https://github.com/JoeLollo21/WikiFreaks/tree/main/sample-data) and [Data Dictionary](https://github.com/JoeLollo21/WikiFreaks/blob/main/sample-data/Sample-Data-Dictionary.csv)
 - [Documentation of Conversion and Curation Work](https://github.com/JoeLollo21/WikiFreaks/blob/main/protocol-report/data-conversion.md)
