@@ -1,5 +1,5 @@
 # WikiFreaks Protocol Report
-All parts of the project report are here, as well as on Manifold. 
+All parts of the project report are here, as well as [on Manifold](https://uw.manifoldapp.org/projects/wikifreaks), which would be the ideal place for future documentation if the repository were to grow. 
 
 ## Table of Contents:
 - [Introduction and Statement of Work](https://github.com/JoeLollo21/WikiFreaks/blob/main/protocol-report/introduction.md)
