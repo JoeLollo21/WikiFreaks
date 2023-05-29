@@ -1,4 +1,4 @@
-# WikiFreaks Repository Policies
+# WikiFreaks Repository Policies:
 WikiFreaks is a repository centering exploration of the culture history of Wikipedia, designed for researchers to download and upload data from Wikipedia's Top 25 reports, catalog records, and WikiMedia unique identifiers.
 <br><br>
 If you have data to contribute on those topics, please read below for our ingestion and deposit policies: 
