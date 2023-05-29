@@ -8,7 +8,7 @@ The data was gathered, and later modified for long-term management, through the 
 <ul>
   <li>Saving multiple Top 25 Report pages as PDFs.</li>
   <li>Using <strong>Tabula</strong> (<a href="https://tabula.technology/">"https://tabula.technology/"</a>) to convert the tables to CSV formats.</li>
-  <li>Cleaned for readability and given extra values using <strong>OpenRefine</strong> (<a href="https://openrefine.org/">https://openrefine.org/</a>).</li>
+  <li>The data was then cleaned for readability and given extra values, namely WikiData identifiers, using <strong>OpenRefine</strong> (<a href="https://openrefine.org/">https://openrefine.org/</a>).</li>
 </ul>
 
 ## Documentation:
