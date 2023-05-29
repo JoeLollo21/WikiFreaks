@@ -9,4 +9,4 @@ The data was gathered, and later modified for long-term management, through the 
 </ul>
 
 # Documentation:
-A [data dictionary]() was created to help end-users understand what each of the data points, and their sources, are. 
+A [data dictionary](https://github.com/JoeLollo21/WikiFreaks/blob/main/sample-data/Sample-Data-Dictionary.csv) was created to help end-users understand what each of the data points, and their sources, are. Submitters would ideally create one of these, or another form of documentation, to assist users.
