@@ -22,7 +22,7 @@ xmlns:ddi="https://ddialliance.org/Specification/">
 	<dci:publicationYear>2023</dci:publicationYear>
 	<dcterms:created xsi:type="dcterms:W3CDTF">2023-05-20</dcterms:created>
 	<dcterms:modified xsi:type="dcterms:W3CDTF">2023-05-25</dcterms:modified>
-	<dcterms:temporal xsi:type="dcterms:W3CDTF">2013-02-17 to 2023-02-23</dcterms:temporal>
+	<dcterms:temporal xsi:type="dcterms:W3CDTF">2013-02-17 to 2013-02-23</dcterms:temporal>
 	<dc:accessURL xsi:type="dcterms:URI">To be added when processed by WikiFreaks</dc:accessURL>
 	<dci:source>https://en.wikipedia.org/wiki/Wikipedia:Top_25_Report/February_17_to_23,_2013</dci:source>
 	<ddi:license>Creative Commons CC-0</ddi:license>
